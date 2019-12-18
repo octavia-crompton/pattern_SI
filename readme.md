@@ -1,12 +1,12 @@
 This folder contains supplementary data for the "Sensitivity of dryland vegetation patterns to storm characteristics", under review at GRL
 
-List of folders:
+ List of contents:
 
-- animations:
- 
-	Sample pattern animations for the exploratory simulations with R = 282 mm/year
+* animations:
 
-src:  
+	- Sample pattern animations for the exploratory simulations with R = 282 mm/year
+
+*  src:  
  	miscellaneous python code used by the jupyter notebook files
 
 notebook_files : 
