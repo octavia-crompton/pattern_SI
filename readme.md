@@ -14,7 +14,8 @@ notebook_files :
 	(ii) emulator model features (`Random_forest_features.ipynb`)
 
 SVE_tr-10,d-1.6 :
-	contains figures from the training data
+	plots of all the training simulations with storm duration = 40 min, and rain depth = 1.6 cm. 
+	All other training simulations can be 
 
 
 validation_figures :
