@@ -2,7 +2,8 @@ This folder contains supplementary data for the "Sensitivity of dryland vegetati
 
 List of folders:
 
-animations: 
+- animations:
+ 
 	Sample pattern animations for the exploratory simulations with R = 282 mm/year
 
 src:  
@@ -15,7 +16,7 @@ notebook_files :
 
 SVE_tr-10,d-1.6 :
 	plots of all the training simulations with storm duration = 40 min, and rain depth = 1.6 cm. 
-	All other training simulations can be 
+	All other training simulations can be visualized in 
 
 
 validation_figures :
